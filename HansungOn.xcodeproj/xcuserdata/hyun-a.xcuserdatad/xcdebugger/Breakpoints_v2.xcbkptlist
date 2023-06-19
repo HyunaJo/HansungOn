@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7FA2320C-DD35-4334-8F63-1F5F9038DC11"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FFFB45D-19BD-4962-AE99-441DDB9CC6BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaverSeriesOn/RankingTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RankingTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5FFFB45D-19BD-4962-AE99-441DDB9CC6BB - 1137fc2b777ce136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverSeriesOn.RankingTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; NaverSeriesOn.RankingTableViewCell"
+                  moduleName = "NaverSeriesOn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyun-a/Desktop/2023-1/IOS/Project/NaverSeriesOn/NaverSeriesOn/RankingTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "5FFFB45D-19BD-4962-AE99-441DDB9CC6BB - 8d2b9153728ec2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NaverSeriesOn.RankingTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NaverSeriesOn.RankingTableViewCell&gt;"
+                  moduleName = "NaverSeriesOn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyun-a/Desktop/2023-1/IOS/Project/NaverSeriesOn/NaverSeriesOn/RankingTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9B103DF-71E3-4AA7-A473-0E66CE37D91E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaverSeriesOn/RankingTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
