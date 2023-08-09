@@ -35,7 +35,7 @@ OTT (Over-the-top) 시장이 발달함에 따라 OTT 및 영화 콘텐츠를 소
 <br>
 
 ### - 개발 언어
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 	
 ### - 개발 도구
 <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
